@@ -7,7 +7,6 @@ QR Code Generator Backend serves on a Heroku instance in production from the QR 
 <h1>Requirements</h1>
 <h3>
 For building and running the application belows are required;
-![generateQRCode](https://user-images.githubusercontent.com/92733161/179044154-6c1bd894-f926-4b9b-92df-409d4f102268.png)
 
 <li>Spring Boot 2.6.9</li>
 <li>JDK 11</li>
